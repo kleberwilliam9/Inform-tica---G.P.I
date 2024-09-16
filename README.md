@@ -1,8 +1,8 @@
 # fórmulas e dados aberto e panilhas
 
-Template para os projetos do curso de graduação em Logística, projeto de informatica ensinando na utilização do repositório digital "GitHub". 
+Template para os projetos do curso de graduação em Logística, Projeto de informatica, Utilização do repositório digital "GitHub". 
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Projeto baseado na metodologia do uso do GITHUB, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
 
