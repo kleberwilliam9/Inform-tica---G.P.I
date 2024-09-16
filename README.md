@@ -13,16 +13,18 @@ Projeto baseado na metodologia do uso do GITHUB, procurando desenvolver a Proati
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
-# Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
+# Projeto (informatica) 
+Descrição de demanda de projetos acadêmico em informatica 
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Pessoa 1         |     https://www.instagram.com/william_cesar9           |
-| Scrum Master  | Pessoa 2 |      https://www.instagram.com/erickzix    |
+| Team member | Pessoa 2 |      https://www.instagram.com/erickzix    |
 | Team Member   | Pessoa 3              |         https://www.instagram.com/_mdsantos_     |
 |  Team Member  | Pessoa 4                 |       https://www.instagram.com/_mveres_
+| Team member | Pessoal 5                  | https://www.instagram.com/jaime_santoos
+
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
