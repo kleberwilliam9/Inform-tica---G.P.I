@@ -1,4 +1,4 @@
-# fórmulas e dados aberto e panilhas
+# fórmulas e dados aberto e panilhas (INFORMATICA)
 
 Template para os projetos do curso de graduação em Logística, Projeto de informatica, Utilização do repositório digital "GitHub". 
 
@@ -13,8 +13,9 @@ Projeto baseado na metodologia do uso do GITHUB, procurando desenvolver a Proati
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
-# Projeto (informatica) 
+# Projeto 
 Descrição de demanda de projetos acadêmico em informatica 
+Projeto de extensão de 2023
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
