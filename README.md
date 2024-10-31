@@ -15,16 +15,30 @@ Projeto baseado na metodologia do uso do GITHUB, procurando desenvolver a Proati
 
 # Projeto 
 Descrição de demanda de projetos acadêmico em informatica 
-Projeto de extensão de 2023
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Pessoa 1         |     https://www.instagram.com/william_cesar9           |
-| Team member | Pessoa 2 |      https://www.instagram.com/erickzix    |
-| Team Member   | Pessoa 3              |         https://www.instagram.com/_mdsantos_     |
-|  Team Member  | Pessoa 4                 |       https://www.instagram.com/_mveres_
-| Team member | Pessoal 5                  | https://www.instagram.com/jaime_santoos
+
+
+ # atividade dados abertos
+![Capturar trabalho 1](https://github.com/user-attachments/assets/5da04870-bf3c-48ad-b221-1a51e4cd808c)
+
+#  power bi 1
+![Capturar trabalho 2](https://github.com/user-attachments/assets/82e5df8e-6536-45df-b178-3093f473beb1)
+
+
+#  power bi 2
+![Capturar  trabalho 3 pag 1](https://github.com/user-attachments/assets/91f257da-bfdb-42b0-9465-2a361ddcc2cf)
+
+![Capturar  trabalho 3 pag 2](https://github.com/user-attachments/assets/c46ac004-bd89-48b1-bcd2-af4b59a74605)
+
+![Capturar  trabalho 3 pag 3](https://github.com/user-attachments/assets/a876e19c-28a2-4746-a77f-2f2a4933e97c)
+
+#  power bi 3
+![Capturar  trabalho 4](https://github.com/user-attachments/assets/79071fd4-cfd0-477a-9e4b-82b7a41923e2)
+
 
 
 # Objetivo do Projeto
