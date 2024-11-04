@@ -1,28 +1,29 @@
-# fórmulas e dados aberto e panilhas (INFORMATICA)
+# projetos Github, Power bi  (INFORMATICA) - GPI 
 
-Template para os projetos do curso de graduação em Logística, Projeto de informatica, Utilização do repositório digital "GitHub". 
+Template para os projetos do curso de graduação em Logística, Projeto de informatica, Utilização do repositório digital "GitHub" "Power bi" . 
 
 Projeto baseado na metodologia do uso do GITHUB, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
 
-* [Projeto](#projeto-template)
+* [Projeto](#equipe)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
-* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Funcionalidades e registros ](#equipe)
+* [Competências desenvolvidas](#equipe)
 
 
 # Projeto 
-Descrição de demanda de projetos acadêmico em informatica 
+Descrição de demanda de projetos acadêmico em informatica primeiro semestre
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Pessoa 1         |     https://www.instagram.com/william_cesar9           |
+| aluno |   kleber william       |     https://www.instagram.com/william_cesar9           |
 
 
  # atividade dados abertos
+
 ![Capturar trabalho 1](https://github.com/user-attachments/assets/5da04870-bf3c-48ad-b221-1a51e4cd808c)
 
 #  power bi 1
