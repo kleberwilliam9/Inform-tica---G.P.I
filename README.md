@@ -48,6 +48,7 @@ Descrição de demanda de projetos acadêmico em informatica primeiro semestre
 
 #  POWER BI 5
 
+![Capturar](https://github.com/user-attachments/assets/ebb36259-bd82-474e-8e6b-fb80391ec6eb)
 
 
 # Objetivo do Projeto
